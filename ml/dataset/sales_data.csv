@@ -1,0 +1,23 @@
+date,product,category,quantitySold,stock,price,dayOfWeek,month
+2026-08-01,Basmati Rice,Groceries,15,120,60,5,8
+2026-08-02,Basmati Rice,Groceries,18,105,60,6,8
+2026-08-03,Basmati Rice,Groceries,12,87,60,0,8
+2026-08-04,Basmati Rice,Groceries,14,73,60,1,8
+2026-08-05,Basmati Rice,Groceries,20,53,60,2,8
+2026-08-06,Basmati Rice,Groceries,22,31,60,3,8
+2026-08-07,Basmati Rice,Groceries,25,6,60,4,8
+2026-08-01,Organic Milk 1L,Dairy,30,50,45,5,8
+2026-08-02,Organic Milk 1L,Dairy,35,15,45,6,8
+2026-08-03,Organic Milk 1L,Dairy,28,40,45,0,8
+2026-08-04,Organic Milk 1L,Dairy,32,12,45,1,8
+2026-08-05,Organic Milk 1L,Dairy,40,60,45,2,8
+2026-08-01,Wireless Mouse,Electronics,5,25,750,5,8
+2026-08-02,Wireless Mouse,Electronics,8,17,750,6,8
+2026-08-03,Wireless Mouse,Electronics,4,13,750,0,8
+2026-08-04,Wireless Mouse,Electronics,6,7,750,1,8
+2026-08-05,Wireless Mouse,Electronics,9,30,750,2,8
+2026-08-01,Paracetamol 500mg,Pharmacy,45,200,20,5,8
+2026-08-02,Paracetamol 500mg,Pharmacy,50,155,20,6,8
+2026-08-03,Paracetamol 500mg,Pharmacy,38,105,20,0,8
+2026-08-04,Paracetamol 500mg,Pharmacy,42,67,20,1,8
+2026-08-05,Paracetamol 500mg,Pharmacy,55,12,20,2,8
